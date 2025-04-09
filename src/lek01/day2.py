@@ -57,3 +57,6 @@ while summa < 10000:
 
 print(f"Pārdotā summa ir sasniegta €{summa:.2f} kas sastāv no {i} darījumiem!")
 
+# Funkcījas
+#
+
