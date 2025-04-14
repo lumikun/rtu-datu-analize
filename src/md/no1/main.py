@@ -19,7 +19,7 @@ year = []
 fuel = []
 for l in lines:
     row = l.rstrip().split(',')
-    if row[1] == "VOLVO":
+    if row[1] == "VW":
         appendstr_to(Mark, row[1])
         append_to(year, row[6])
         appendstr_to(fuel ,row[4])
