@@ -7,4 +7,8 @@ Pamata informācīja.
 
 Pamata zināšanas.
 
-### Vajadzētu iztestēt `zig` spējas ar lieliem datiem.
+### TODO: Vajadzētu iztestēt `zig` spējas ar lieliem datiem.
+
+## Lekcija 02
+
+Pandas u.t.t.
